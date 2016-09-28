@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IMDb Search</string>
+    <string name="search_action">Search</string>
+    <string name="title_details">Details</string>
+    <string name="click_search">Click search button to find movies</string>
+    <string name="no_results">No search results found for "%s"</string>
+    <string name="search_error">Search error! Try again</string>
+    <string name="details_error">Error loading details! Try again</string>
+    <string name="title">Title:</string>
+    <string name="year">Year:</string>
+    <string name="genre">Genre:</string>
+    <string name="type">Type:</string>
+    <string name="plot">Plot:</string>
+</resources>
